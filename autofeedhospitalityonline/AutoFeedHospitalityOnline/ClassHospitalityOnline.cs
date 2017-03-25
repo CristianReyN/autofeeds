@@ -4,7 +4,8 @@
 // from vm
 // from vm 2
 // from local 2
->>>>>>> origin/master
+
+//Checking out in local
 using System;
 using System.Text;
 using AutoFeedData;
