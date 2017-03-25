@@ -2,9 +2,7 @@
 // Second set of changes
 // from local
 // from vm
-<<<<<<< HEAD
 // from vm 2
-=======
 // from local 2
 >>>>>>> origin/master
 using System;
